@@ -1,0 +1,5 @@
+streamlit
+pytesseract
+Pillow
+fpdf
+google-cloud-vision  # If using Google Cloud Vision API
